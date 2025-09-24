@@ -16,18 +16,15 @@ El taller se centra en el análisis de juegos de bienes públicos, comparando la
 - **CreatedData/**  
   Archivos procesados en Stata listos para el análisis (promedios por período, datos fusionados, etc.).
 
-- **Figures/**  
-  Gráficos generados en Stata y usados en el informe en LaTeX:
-  - Contribución promedio por período (con vs. sin castigo).  
-  - Contribución promedio en la clase (P2.1.1).  
-  - Gráficos de columnas y de dispersión para diferentes ejercicios del taller.  
-
 - **Code/**  
   Scripts en Stata (`.do`) utilizados para limpiar datos, calcular estadísticas descriptivas, realizar pruebas de hipótesis (`ttest`) y generar figuras.
 
 - **Outputs/**  
-  - **Tables/**: tablas exportadas (ej. estadísticas descriptivas en LaTeX).  
-  - **Slides/**: presentaciones relacionadas (si aplica).
+  - **Figures/**  
+  Gráficos generados en Stata y usados en el informe en LaTeX:
+  - Contribución promedio por período (con vs. sin castigo).  
+  - Contribución promedio en la clase (P2.1.1).  
+  - Gráficos de columnas y de dispersión para diferentes ejercicios del taller.  
 
 - **Informe/**  
   Documento principal en **LaTeX (Overleaf)** con las respuestas al taller, gráficos y tablas.  
@@ -61,5 +58,5 @@ El taller se centra en el análisis de juegos de bienes públicos, comparando la
 
 ---
 
-✍️ Autor: **Samuel Blanco Castellanos**  
+✍️ Autor: **Samuel Blanco Castellanos, Joan Shick, Gabriel Salcedo, Juan Rusinque**  
 📅 Fecha: 2025  
