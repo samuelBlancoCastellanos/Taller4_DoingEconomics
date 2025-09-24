@@ -2,7 +2,7 @@
 * Proyecto: Taller 4 – Experimentos (Haciendo Economía)
 * Título: Script maestro para el taller 4, análisis reproducible
 * Autores de referencia: Herrmann, Thöni y Gächter (Science, 2008)
-* Elaborado por: Samuel Blanco Castellanos 
+* Elaborado por: Samuel Blanco Castellanos, Jhoan, Gabriel, Rusinsqui
 * Objetivo general:
 *   - Estandarizar flujo de trabajo del Taller 4 (importación, limpieza,
 *     análisis, gráficos y tablas) en una sola rutina reproducible.
@@ -401,4 +401,5 @@ keep if Period == 10
 
 * t-test de medias entre con y sin castigo
 ttest contribucion, by(condicion)
+
 
